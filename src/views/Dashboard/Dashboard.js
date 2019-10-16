@@ -22,6 +22,7 @@ export default function Dashboard() {
   const classes = useStyles();
   return (
     <div>
+      Demo for Guardian/Dragon you can support me by <b>Getttt me outttt of elo helllll</b>
 {/*           <div id="div_iframe"><iframe id="frame" scroll="no" frameBorder="0" onLoad={() => {document.getElementById('div_iframe').scrollTop = 500}}
           width="800"
           src="https://lolchess.gg/builder" /></div> */}
