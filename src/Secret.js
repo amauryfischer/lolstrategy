@@ -18,7 +18,7 @@ export default class Secret extends Component {
                         <div>On prendra le temps de faire pas mal de trucs ensemble quand tu seras un peu plus souvent en France</div>
                         <div>En attendant j'ai trés hâte de te revoir pour Noël</div>
                         <div>Côté études t'en fait pas, ya des hauts et ya des bas, mais t'es pas bête je me fait aucun soucis sur le fait que tu vas t'en sortir</div>
-                        <div>Suis ce que ton coeur te dis de faire, et écoute pas trop ceux que te disent de faire les autres parce qu'ils t'y voient bien :)</div>
+                        <div>Suis ce que ton coeur te dis de faire, et écoute pas trop ce que te disent de faire les autres parce qu'ils t'y voient bien :)</div>
                         <div>Quoi que tu choisisses de toute façon je suis à fond avec toi, et si t'as besoin d'une quelconque aide hésite surtout pas, un grand frère c'est fait pour ca^^</div>
                         <div>Pour la petite anecdote Dad m'a dis que ca serait bien que je t'écrives une lettre.</div>
                         <div>J'aime pas les lettres du coup j'ai fait quelque chose qui me correspond mieux^^</div>
